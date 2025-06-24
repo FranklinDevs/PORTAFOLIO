@@ -2,9 +2,9 @@ const allProjects = [
 
   {
     id: "01",
-    title: "Portafolio Franklin.",
+    title: "Proyecto Franklin",
     image: "./public/assets/imgs/portafolio-franklin.png",
-    description: "Portfolio construido con HTML, CSS y Javascript...",
+    description: "Portafolio para estudiantes",
     tags: {
       html: "html",
       css: "css",
@@ -15,16 +15,16 @@ const allProjects = [
       name: "Backend"
     },
     links: {
-      github: "https://github.com/Franklin-borda",
-      youtube: "https://www.youtube.com/@fr_borda"
+      github: "https://github.com/FranklinDevs/SENATI/tree/main/Proyectos%20personales/portafolio%201",
+      youtube: "https://www.youtube.com/@ADMIN_student-2024/videos"
     }
   },
 
   {
     id: "02",
-    title: "Proyecto Portfolio",
+    title: "Portafolio Franklin",
     image: "./public/assets/imgs/img-portfolio.png",
-    description: "Proyecto de mi Portfolio personal. Este es un proyecto backend y Fron...",
+    description: "Mi Portafolio personal. Este es un proyecto  Frontend hecho con HTML, CSS y JAVASCRIPT....",
     tags: {
       html: "html",
       css: "css",
@@ -35,8 +35,8 @@ const allProjects = [
       name: "Frontend"
     },
     links: {
-      github: "https://github.com/Franklin-borda",
-      youtube: "https://www.youtube.com/@fr_borda"
+      github: "https://github.com/FranklinDevs/PORTAFOLIO",
+      youtube: "https://www.youtube.com/@ADMIN_student-2024/videos"
     }
   },
 ];
