@@ -16,7 +16,7 @@ const allProjects = [
     },
     links: {
       github: "https://github.com/FranklinDevs/SENATI/tree/main/Proyectos%20personales/portafolio%201",
-      youtube: "https://www.youtube.com/@ADMIN_student-2024/videos"
+      youtube: "https://www.youtube.com/@fr4nk1inctv"
     }
   },
 
@@ -36,7 +36,7 @@ const allProjects = [
     },
     links: {
       github: "https://github.com/FranklinDevs/PORTAFOLIO",
-      youtube: "https://www.youtube.com/@ADMIN_student-2024/videos"
+      youtube: "https://www.youtube.com/@fr4nk1inctv"
     }
   },
 ];
